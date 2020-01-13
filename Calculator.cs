@@ -3,7 +3,8 @@ using System;
 namespace githubtest.C__MARE
 {
     public class Calculator
-    {       // ULT Tqsilufqslkufg
+
+    {       // ULTMATE
         static void Main(string[] args)
         {
             // Declare variables and then initialize to zero.
